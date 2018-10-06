@@ -18,6 +18,16 @@
   background-color: #004065;
 }
 
+.btn-buff-and-blue {
+  background-color: #c8b18b;
+  color: #fffffe;
+}
+
+.btn-buff-and-blue:hover {
+  background-color: #b49f7c;
+  color: #fffffe;
+}
+
 .container h1 {
   padding-bottom: 0.5em;
 }
