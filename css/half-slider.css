@@ -31,3 +31,13 @@
 .container h1 {
   padding-bottom: 0.5em;
 }
+
+td p {
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+}
+
+td ul li {
+  font-style: italic;
+}
