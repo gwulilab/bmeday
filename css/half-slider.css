@@ -32,6 +32,18 @@
   padding-bottom: 0.5em;
 }
 
+.mapouter {
+  height: 500;
+  width: 100%;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height:500;
+  width:100%;
+}
+
 td p {
   font-style: italic;
   margin: 0;
